@@ -1,0 +1,4 @@
+group_expense_demo.db
+__pycache__/
+*.pyc
+.DS_Store
